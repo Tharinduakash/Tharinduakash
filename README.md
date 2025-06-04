@@ -1,20 +1,38 @@
 <h1 align="center">Hi 👋, I'm Tharindu Akash</h1>
-<h3 align="center">B.Sc. in Computer Science | Founder of Travel Buddies | Innovator in Technology and Travel</h3>
+<h3 align="center">I'm an undergraduate Data Scientist at the University of Kelaniya, passionate about leveraging data to solve real-world problems. I love exploring new technologies, working on data-driven projects, and collaborating with others in the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduakash&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduakash" /> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+🚀 About Me
+🎓 Education: BSc (Hons) in Data Science, University of Kelaniya
 
-- 👯 I’m looking to collaborate on **Pharamsectual_sales_prediction**
+💡 Interests: Machine Learning, Data Analysis, AI, Visualization, Python, R
 
-- 💬 Ask me about **react**
+🛠️ Skills:
 
-- 📫 How to reach me **akashperera820@gmail.com**
+Programming: Python, R, SQL
 
-- 📄 Know about my experiences [https://youtube.com/@tra_vel_buddies?si=3PBhuTDqug1E0bmE](https://youtube.com/@tra_vel_buddies?si=3PBhuTDqug1E0bmE)
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-- ⚡ Fun fact **Vino**
+Tools: Jupyter Notebook, Git, Tableau
 
+🌱 Currently Learning: Deep Learning, Natural Language Processing
+
+📈 Projects: Check out my repositories for projects on data analysis, machine learning, and more!
+
+## 🗂️ Featured Projects
+
+- **[Chatbot using Python , OpenAI API key ](https://github.com/Tharinduakash/chatbot):**  
+  This is an AI-powered chatbot built using Python and OpenAI API (GPT). It processes user queries and generates human-like responses using OpenAI's GPT model.
+
+- **[ Medical Drug Sales Prediction based on Specific areas in Sri Lanka (July 2024 – dec 2024) ](https://github.com/Tharinduakash/Pharamsectual_sales_prediction):**  
+  📊 Pharmacy Sales Prediction System
+This project is a machine learning-based forecasting system designed to predict weekly pharmacy sales based on historical sales data. It allows users to input a category (e.g., medicine type) and a date, returning the closest valid forecasted sales value.
+
+## ⚡ Fun Fact
+
+I love exploring data challenges.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tharinduakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tharinduakash" height="30" width="40" /></a>
