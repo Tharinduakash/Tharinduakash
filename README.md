@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tharindu Akash</h1>
+<h1 align="center">Hi 👋, I'm Tharindu Akash Perera</h1>
 
 <h3 align="center">
-Data Science Undergraduate | AI Enthusiast | Problem Solver
+🚀 Data Science Undergraduate | AI Researcher | Machine Learning Engineer
 </h3>
 
 <p align="center">
-I'm an undergraduate Data Scientist at the University of Kelaniya, passionate about leveraging data to solve real-world problems. 
-I enjoy building intelligent systems, exploring new technologies, and collaborating with the tech community.
+Passionate about building intelligent systems using AI, Machine Learning, and Data Science to solve real-world business and economic problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharinduakash&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tharinduakash&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <hr/>
@@ -18,96 +17,126 @@ I enjoy building intelligent systems, exploring new technologies, and collaborat
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎓 <strong>BSc (Hons) in Data Science</strong> – University of Kelaniya</li>
-  <li>💡 Passionate about <strong>AI, Machine Learning & Data Science</strong></li>
-  <li>📊 Love solving <strong>real-world problems using data</strong></li>
-  <li>🤝 Open to collaboration on AI/Data Science projects</li>
-  <li>🌱 Currently learning <strong>Deep Learning & NLP</strong></li>
+  <li>🎓 BSc (Hons) Computer Science (Data Science Specialization) – University of Kelaniya (2022–2026)</li>
+  <li>📊 Strong background in <strong>Machine Learning, Time-Series Forecasting & Predictive Modeling</strong></li>
+  <li>📄 IEEE Published Researcher (Medical Drug Sales Prediction)</li>
+  <li>🤖 Building AI-powered systems using Python, LLMs & Deep Learning</li>
+  <li>🌱 Currently exploring <strong>Deep Learning, NLP & Hybrid AI Systems</strong></li>
 </ul>
 
 <hr/>
 
-<h2>🛠️ Skills</h2>
+<h2>💼 Work Experience</h2>
 
-<p><strong>Programming:</strong> Python, R, SQL</p>
-<p><strong>Libraries:</strong> Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn</p>
-<p><strong>Tools:</strong> Jupyter Notebook, Git, Tableau</p>
+<h3>💻 Intern Software Engineer (Frontend) – Un4cus (Pvt) Ltd.</h3>
+<p>Colombo, Sri Lanka | 6 Months</p>
+
+<ul>
+  <li>Developed dynamic UI using <strong>Next.js & React</strong></li>
+  <li>Integrated frontend with backend APIs for real-time POS system</li>
+  <li>Improved system performance and user experience</li>
+  <li>Worked on AI-integrated smart business features</li>
+</ul>
 
 <hr/>
 
 <h2>🚀 Featured Projects</h2>
 
 <ul>
-  <li>
-    <strong>
-      <a href="https://github.com/Tharinduakash/chatbot" target="_blank">
-        🤖 AI Chatbot using Python & OpenAI API
-      </a>
-    </strong>
-    <p>
-      AI-powered chatbot that processes user queries and generates human-like responses using GPT models.
-    </p>
-  </li>
 
-  <li>
-    <strong>
-      <a href="https://github.com/Tharinduakash/Pharamsectual_sales_prediction" target="_blank">
-        📊 Pharmacy Sales Prediction System
-      </a>
-    </strong>
-    <p>
-      Machine learning system to forecast weekly pharmacy sales based on historical data.
-      Allows prediction by category and date to support decision-making.
-    </p>
-  </li>
+<li>
+<strong>📈 Hybrid AI Framework for Global Stock Market Prediction</strong><br/>
+🔗 <a href="https://github.com/Tharinduakash/Hybrid-AI-Framework-for-Global-Stock-Market-Prediction" target="_blank">View Project</a>
+
+<p>
+Final Year Research Project combining <strong>Machine Learning + LLMs</strong> to predict global stock trends.
+Integrates ARIMA/SARIMAX with sentiment analysis from news & social media.
+Includes web-based visualization dashboard.
+</p>
+</li>
+
+<li>
+<strong>📊 Medical Drug Sales Prediction (IEEE Research)</strong><br/>
+🔗 <a href="https://github.com/Tharinduakash/Pharamsectual_sales_prediction" target="_blank">View Project</a>
+
+<p>
+Published research project using <strong>ARIMA & SARIMAX</strong> for forecasting pharmacy sales in Sri Lanka.
+Deployed as a public web application.
+</p>
+</li>
+
+<li>
+<strong>🤖 AI Chatbot using OpenAI API</strong><br/>
+🔗 <a href="https://github.com/Tharinduakash/chatbot" target="_blank">View Project</a>
+
+<p>
+Developed an AI chatbot using Python and GPT models to automate customer interaction and improve engagement.
+</p>
+</li>
+
+<li>
+<strong>🌍 Travel Buddies Adventure (Full-Stack Platform)</strong><br/>
+🔗 <a href="http://travelbuddiesadventure.lk/" target="_blank">Live Site</a>
+
+<p>
+Built using <strong>Next.js + PostgreSQL</strong> with SEO optimization and dynamic routing.
+</p>
+</li>
+
+<li>
+<strong>📊 Data Warehouse + Power BI Analytics</strong><br/>
+🔗 <a href="https://github.com/Tharinduakash/Snowflake-warehouse-Predictions" target="_blank">View Project</a>
+
+<p>
+Implemented Snowflake-based data pipeline with ML forecasting and Power BI dashboards.
+</p>
+</li>
+
 </ul>
 
 <hr/>
 
-<h2>📈 Current Focus</h2>
+<h2>🧠 Skills</h2>
+
+<p><strong>Programming:</strong> Python, JavaScript (ES6+), Java, C, C#, R</p>
+
+<p><strong>Web Development:</strong> React, Next.js, HTML, CSS, .NET, Flask</p>
+
+<p><strong>AI & Data Science:</strong> Machine Learning, Deep Learning, NLP, LLMs, ARIMA, SARIMAX, Predictive Modeling</p>
+
+<p><strong>Libraries:</strong> Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Seaborn</p>
+
+<p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Oracle, Supabase, Neon</p>
+
+<p><strong>Tools:</strong> Git, Power BI, Postman, Swagger, Jupyter, VS Code</p>
+
+<hr/>
+
+<h2>📜 Certifications</h2>
 
 <ul>
-  <li>🧠 Deep Learning</li>
-  <li>🗣️ Natural Language Processing (NLP)</li>
-  <li>📊 Time Series Forecasting</li>
-  <li>🌍 AI for Real-World Applications</li>
+  <li>AWS Certified Data Engineer – Associate (Ongoing)</li>
+  <li>Guide to Power BI for Data Analysts – Microsoft Press</li>
 </ul>
 
 <hr/>
 
-<h2>⚡ Fun Fact</h2>
+<h2>🏆 Achievements & Activities</h2>
 
-<p>💡 I enjoy solving data challenges and turning ideas into intelligent systems.</p>
+<ul>
+  <li>🏅 University Colours – Carrom (Inter-University Runners-Up 2024)</li>
+  <li>📢 ISACA Student Group Member – Increased engagement by 30%</li>
+  <li>🎬 YouTube Content Creator (Travel & AI Content)</li>
+  <li>💻 Member – FOSS Community & Computer Science Society</li>
+</ul>
 
 <hr/>
 
 <h2>🌐 Connect With Me</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tharinduakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/tharindu.akash.311" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/akash_perera_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-  <a href="https://youtube.com/@tra_vel_buddies" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
-</p>
-
-<hr/>
-
-<h2>🧰 Languages & Tools</h2>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<p>
+<a href="https://www.linkedin.com/in/tharinduakash" target="_blank">LinkedIn</a> |
+<a href="https://github.com/Tharinduakash" target="_blank">GitHub</a>
 </p>
 
 <hr/>
